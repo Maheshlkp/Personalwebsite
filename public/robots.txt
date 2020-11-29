@@ -1,3 +1,3 @@
-# https://www.robotstxt.org/robotstxt.html
+# https://www.maheshlakkapally.com
 User-agent: *
 Disallow:
